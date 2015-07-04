@@ -24,5 +24,8 @@
     "ember-cli-deploy-s3": "zapnito/ember-cli-deploy-s3#master",
     "ember-cli-deploy-manifest": "lukemelia/ember-cli-deploy-manifest#master",
     "ember-cli-deploy-revision-key": "zapnito/ember-cli-deploy-revision-key#master"
+  },
+  "ember-addon": {
+    "defaultBlueprint": "lightning-deploy-config"
   }
 }
