@@ -1,25 +1,12 @@
-# Ember-cli-deploy-lightning-pack
+# ember-cli-deploy-lightning-pack
 
-This README outlines the details of collaborating on this Ember addon.
+This addon is a plugin pack for the upcoming ember-cli-deploy 0.5.0 release. It bundles the plugins you need to have a deployment pipeline for your Ember app similar to what I described in my talk: Lightning Fast Deployment of Your Rails-backed JavaScript https://www.youtube.com/watch?v=QZVYP3cPcWQ
 
-## Installation
+It also has a blueprint for your `config/deploy.js` file to get you started.
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+## Usage
 
-## Running
+* Wait for ember-cli-deploy 0.5.0 to be released
+* `ember install ember-cli-deploy`
+* `ember install ember-cli-deploy-lightning-pack`
 
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
