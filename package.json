@@ -4,7 +4,7 @@
   "description": "A pack of ember-cli-deploy plugins for implementing the 'lightning' deploys approach.",
   "scripts": {
   },
-  "repository": "",
+  "repository": "https://github.com/lukemelia/ember-cli-deploy-lightning-pack",
   "engines": {
     "node": ">= 0.10.0"
   },
