@@ -18,12 +18,12 @@
     "ember-cli-deploy-plugin-pack"
   ],
   "dependencies": {
-    "ember-cli-deploy-build": "zapnito/ember-cli-deploy-build#master",
-    "ember-cli-deploy-gzip": "lukemelia/ember-cli-deploy-gzip#master",
-    "ember-cli-deploy-redis": "zapnito/ember-cli-deploy-redis#master",
-    "ember-cli-deploy-s3": "zapnito/ember-cli-deploy-s3#master",
-    "ember-cli-deploy-manifest": "lukemelia/ember-cli-deploy-manifest#master",
-    "ember-cli-deploy-revision-key": "zapnito/ember-cli-deploy-revision-key#master"
+    "ember-cli-deploy-build": "zapnito/ember-cli-deploy-build#4092f0aba15d7706ad44dfaeac6f574c6b19511c",
+    "ember-cli-deploy-gzip": "lukemelia/ember-cli-deploy-gzip#b618036a4502a897deed9612a653f1b5f032e915",
+    "ember-cli-deploy-redis": "zapnito/ember-cli-deploy-redis#432de031b6faa5d98b3c4fa897d2291faf27a545",
+    "ember-cli-deploy-s3": "zapnito/ember-cli-deploy-s3#076f35e7b53d1afa4672e6054fdd76ceda1fa948",
+    "ember-cli-deploy-manifest": "lukemelia/ember-cli-deploy-manifest#ca346b136001f98e04a5a135dd87157f1b297c81",
+    "ember-cli-deploy-revision-key": "zapnito/ember-cli-deploy-revision-key#972c9d1a74095d7f664ab0f92bc632155541aaa5"
   },
   "ember-addon": {
     "defaultBlueprint": "lightning-deploy-config"
