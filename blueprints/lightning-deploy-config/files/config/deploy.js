@@ -6,6 +6,7 @@ var VALID_DEPLOY_ENVIRONMENTS = [ //update these to match what you call your dep
 
 module.exports = function(environment) {
   var ENV = {
+    build: {},
     redis: {
       allowOverwrite: true,
       keyPrefix: '<%= dasherizedPackageName %>:index'
@@ -19,13 +20,13 @@ module.exports = function(environment) {
   }
 
   if (environment === 'dev') {
-    ENV.buildEnv = 'development';
+    ENV.build.environment = 'development';
     ENV.redis.url = process.env.REDIS_URL || 'redis://0.0.0.0:6379/';
     ENV.plugins = ['build', 'redis']; // only care about deploying index.html into redis in dev
   }
 
   if (environment === 'qa' || environment === 'prod') {
-    ENV.buildEnv = 'production';
+    ENV.build.environment = 'production';
     ENV.s3.accessKeyId = process.env.AWS_KEY;
     ENV.s3.secretAccessKey = process.env.AWS_SECRET;
     ENV.s3.bucket = /* YOUR S3 BUCKET NAME */;
