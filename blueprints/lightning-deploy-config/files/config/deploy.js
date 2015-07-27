@@ -1,10 +1,10 @@
-var VALID_DEPLOY_ENVIRONMENTS = [ //update these to match what you call your deployment environments
+var VALID_DEPLOY_TARGETS = [ //update these to match what you call your deployment targets
   'dev',
   'qa',
   'prod'
 ];
 
-module.exports = function(environment) {
+module.exports = function(deployTarget) {
   var ENV = {
     build: {},
     redis: {
@@ -15,28 +15,28 @@ module.exports = function(environment) {
       prefix: '<%= dasherizedPackageName %>'
     }
   };
-  if (VALID_DEPLOY_ENVIRONMENTS.indexOf(environment) === -1) {
-    throw new Error('Invalid environment ' + environment);
+  if (VALID_DEPLOY_TARGETS.indexOf(deployTarget) === -1) {
+    throw new Error('Invalid deployTarget ' + deployTarget);
   }
 
-  if (environment === 'dev') {
+  if (deployTarget === 'dev') {
     ENV.build.environment = 'development';
     ENV.redis.url = process.env.REDIS_URL || 'redis://0.0.0.0:6379/';
     ENV.plugins = ['build', 'redis']; // only care about deploying index.html into redis in dev
   }
 
-  if (environment === 'qa' || environment === 'prod') {
+  if (deployTarget === 'qa' || deployTarget === 'prod') {
     ENV.build.environment = 'production';
     ENV.s3.accessKeyId = process.env.AWS_KEY;
     ENV.s3.secretAccessKey = process.env.AWS_SECRET;
     ENV.s3.bucket = /* YOUR S3 BUCKET NAME */;
   }
 
-  if (environment === 'qa') {
+  if (deployTarget === 'qa') {
     ENV.redis.url = process.env.QA_REDIS_URL;
   }
 
-  if (environment === 'prod') {
+  if (deployTarget === 'prod') {
     ENV.redis.url = process.env.PROD_REDIS_URL;
   }
 
@@ -49,7 +49,7 @@ module.exports = function(environment) {
    *    var Promise = require('ember-cli/lib/ext/promise');
    *    return new Promise(function(resolve, reject){
    *      var exec = require('child_process').exec;
-   *      var command = 'heroku config:get REDISTOGO_URL --app my-app-' + environment;
+   *      var command = 'heroku config:get REDISTOGO_URL --app my-app-' + deployTarget;
    *      exec(command, function (error, stdout, stderr) {
    *        ENV.redis.url = stdout.replace(/\n/, '').replace(/\/\/redistogo:/, '//:');
    *        if (error) {
