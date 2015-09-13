@@ -18,12 +18,12 @@
     "ember-cli-deploy-plugin-pack"
   ],
   "dependencies": {
-    "ember-cli-deploy-build": "zapnito/ember-cli-deploy-build#4092f0aba15d7706ad44dfaeac6f574c6b19511c",
+    "ember-cli-deploy-build": "0.1.0-beta.1",
     "ember-cli-deploy-gzip": "0.1.0-beta.1",
-    "ember-cli-deploy-redis": "zapnito/ember-cli-deploy-redis#092c1164163168415b21a8e6286dbfd5d0fa78b8",
-    "ember-cli-deploy-s3": "zapnito/ember-cli-deploy-s3#076f35e7b53d1afa4672e6054fdd76ceda1fa948",
-    "ember-cli-deploy-manifest": "lukemelia/ember-cli-deploy-manifest#ca346b136001f98e04a5a135dd87157f1b297c81",
-    "ember-cli-deploy-revision-key": "zapnito/ember-cli-deploy-revision-key#972c9d1a74095d7f664ab0f92bc632155541aaa5"
+    "ember-cli-deploy-redis": "0.1.0-beta.1",
+    "ember-cli-deploy-s3": "0.1.0-beta.1",
+    "ember-cli-deploy-manifest": "0.1.0-beta.1",
+    "ember-cli-deploy-revision-data": "0.1.0-beta.3"
   },
   "ember-addon": {
     "defaultBlueprint": "lightning-deploy-config"
