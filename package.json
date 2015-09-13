@@ -4,11 +4,11 @@
   "description": "A pack of ember-cli-deploy plugins for implementing the 'lightning' deploys approach.",
   "scripts": {
   },
-  "repository": "https://github.com/lukemelia/ember-cli-deploy-lightning-pack",
+  "repository": "https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Luke Melia and ember-cli-deploy team",
   "license": "MIT",
   "devDependencies": {
     "ember-cli": "0.2.7"
