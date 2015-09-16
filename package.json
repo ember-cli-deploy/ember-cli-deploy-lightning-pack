@@ -1,9 +1,8 @@
 {
   "name": "ember-cli-deploy-lightning-pack",
-  "version": "0.2.0-beta.4",
+  "version": "0.2.0-beta.5",
   "description": "A pack of ember-cli-deploy plugins for implementing the 'lightning' deploys approach.",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": "https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack",
   "engines": {
     "node": ">= 0.10.0"
@@ -11,7 +10,8 @@
   "author": "Luke Melia and ember-cli-deploy team",
   "license": "MIT",
   "devDependencies": {
-    "ember-cli": "0.2.7"
+    "ember-cli": "0.2.7",
+    "ember-cli-release": "0.2.6"
   },
   "keywords": [
     "ember-addon",
