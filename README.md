@@ -2,9 +2,7 @@
 
 > An ember-cli-deploy plugin pack to implement a lightning deployment pattern as described
 
-<hr/>
-**WARNING: This plugin is only compatible with ember-cli-deploy versions >= 0.5.0**
-<hr/>
++[![](https://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/plugins/ember-cli-deploy-lightning-pack.svg)](http://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/)
 
 This package bundles the plugins you need to have a deployment pipeline for your Ember app similar to what I described in my talk: Lightning Fast Deployment of Your Rails-backed JavaScript https://www.youtube.com/watch?v=QZVYP3cPcWQ
 
