@@ -11,7 +11,6 @@ It also has a blueprint for your `config/deploy.js` file to get you started.
 ## Installation
 
 ```
-* Wait for ember-cli-deploy 0.5.0 to be released
 ember install ember-cli-deploy
 ember install ember-cli-deploy-lightning-pack
 ```
