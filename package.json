@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-deploy-lightning-pack",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "A pack of ember-cli-deploy plugins for implementing the 'lightning' deploys approach.",
   "scripts": {},
   "repository": "https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack",
@@ -18,13 +18,13 @@
     "ember-cli-deploy-plugin-pack"
   ],
   "dependencies": {
-    "ember-cli-deploy-build": "0.1.0",
-    "ember-cli-deploy-display-revisions": "0.1.0",
-    "ember-cli-deploy-gzip": "0.1.0",
-    "ember-cli-deploy-redis": "0.1.1",
-    "ember-cli-deploy-s3": "0.2.0",
-    "ember-cli-deploy-manifest": "0.1.0",
-    "ember-cli-deploy-revision-data": "0.1.0"
+    "ember-cli-deploy-build": "0.1.1",
+    "ember-cli-deploy-display-revisions": "0.1.1",
+    "ember-cli-deploy-gzip": "0.2.1",
+    "ember-cli-deploy-redis": "0.2.0",
+    "ember-cli-deploy-s3": "0.2.1",
+    "ember-cli-deploy-manifest": "0.1.1",
+    "ember-cli-deploy-revision-data": "0.1.1"
   },
   "ember-addon": {
     "defaultBlueprint": "lightning-deploy-config"
