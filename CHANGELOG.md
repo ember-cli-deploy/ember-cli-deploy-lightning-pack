@@ -1,7 +1,12 @@
-# Change Log
+# Changelog
 
-## [0.4.0](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.4.0) (2016-02-06)
-[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.3.1...0.4.0)
+## [0.5.0](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v0.5.0) (2016-02-06)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.4.0...v0.5.0)
+
+- Update versions of ember-cli-deploy-gzip and ember-cli-deploy-display-revisions (@achambers)
+
+## [0.4.0](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v0.4.0) (2016-02-06)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.3.1...v0.4.0)
 
 - Update versions of all dependent plugins (@lukemelia)
 
