@@ -43,7 +43,7 @@ module.exports = function(deployTarget) {
 
   return ENV;
 
-  /* Note: a synchronous return is show above, but ember-cli-deploy
+  /* Note: a synchronous return is shown above, but ember-cli-deploy
    * does support returning a promise, in case you need to get any of
    * your configuration asynchronously. e.g.
    *
