@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.6.2](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.2) (2016-04-14)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.1...0.6.2)
+
+- update revision-data and allow ^ updates [\#20](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/20) ([ghedamat](https://github.com/ghedamat))
+
 ## [0.6.1](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v0.6.1) (2016-04-01)
 [Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.0...v0.6.1)
 
