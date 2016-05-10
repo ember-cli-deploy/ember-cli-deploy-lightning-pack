@@ -19,7 +19,7 @@ The necessary set of plugins will be available to ember-cli-deploy and an exampl
 
 ## What is a plugin pack?
 
-A "plugin pack" is a concept supported by ember-cli-deploy that allows a single addon to make multiple plugins available by adding a single direct depedency to your project.
+A "plugin pack" is a concept supported by ember-cli-deploy that allows a single addon to make multiple plugins available by adding a single direct dependency to your project.
 
 ## What plugins are made available?
 
