@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.6.3](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.3) (2016-05-23)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.2...0.6.3)
+
+- Bumped the deploy-redis version [\#24](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/20) ([acorncom](https://github.com/acorncom))
+
 ## [0.6.2](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.2) (2016-04-14)
 [Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.1...0.6.2)
 
