@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.6.4](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.4) (2016-06-15)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.3...0.6.4)
+
+- Update display-revisions, s3, and revision-data plugins [\#26](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/26) ([lukemelia](https://github.com/lukemelia))
+
 ## [0.6.3](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.3) (2016-05-23)
 [Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.2...0.6.3)
 
