@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.6.7](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.7) (2016-11-01)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.6...0.6.7)
+
+- Update ember-cli-deploy-revision-data to latest [\#29](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/29) ([lukemelia](https://github.com/lukemelia))
+
 ## [0.6.6](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.6) (2016-10-19)
 [Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.5...0.6.6)
 
