@@ -10,8 +10,8 @@
   "author": "Luke Melia and ember-cli-deploy team",
   "license": "MIT",
   "devDependencies": {
-    "ember-cli": "0.2.7",
-    "ember-cli-release": "0.2.6"
+    "ember-cli": "2.9.1",
+    "ember-cli-release": "1.0.0-beta.2"
   },
   "keywords": [
     "ember-addon",
@@ -20,7 +20,7 @@
   "dependencies": {
     "ember-cli-deploy-build": "0.1.1",
     "ember-cli-deploy-display-revisions": "0.2.2",
-    "ember-cli-deploy-gzip": "0.2.3",
+    "ember-cli-deploy-gzip": "0.2.4",
     "ember-cli-deploy-redis": "0.4.1",
     "ember-cli-deploy-s3": "0.4.0",
     "ember-cli-deploy-manifest": "0.1.1",
