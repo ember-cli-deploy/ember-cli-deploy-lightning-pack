@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.6.9](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.9) (2016-11-19)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.8...0.6.9)
+
+- Bump gzip plugin to 0.2.4
+
 ## [0.6.8](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.8) (2016-11-01)
 [Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.7...0.6.8)
 
