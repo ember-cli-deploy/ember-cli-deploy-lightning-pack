@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.6.10](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.10) (2016-11-21)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.9...0.6.10)
+
+- Update redis plugin to 0.4.2 [\#30](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/30) ([lukemelia](https://github.com/lukemelia))
+
 ## [0.6.9](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.9) (2016-11-19)
 [Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.8...0.6.9)
 
