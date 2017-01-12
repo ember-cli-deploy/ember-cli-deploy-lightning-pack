@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.6.11](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v0.6.11) (2017-01-11)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.10...v0.6.11)
+
+- Bump revision-data plugin version [\#32](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/32) ([lukemelia](https://github.com/lukemelia))
+
 ## [0.6.10](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/0.6.10) (2016-11-21)
 [Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.9...0.6.10)
 
