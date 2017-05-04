@@ -1,5 +1,27 @@
 # Change Log
 
+## [v1.1.0](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.1.0) (2017-05-04)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.0.0...v1.1.0)
+
+**Merged pull requests:**
+
+- Update redis plugin to 1.0.1 [\#38](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/38) ([lukemelia](https://github.com/lukemelia))
+- Update build plugin to 1.1.0 [\#37](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/37) ([lukemelia](https://github.com/lukemelia))
+
+## [v1.0.0](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.0.0) (2017-04-06)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.0.0-beta.1...v1.0.0)
+
+**Merged pull requests:**
+
+- Bump dependencies to 1.0.0 [\#35](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/35) ([lukemelia](https://github.com/lukemelia))
+
+## [v1.0.0-beta.1](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.0.0-beta.1) (2017-03-25)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.0.0-beta.0...v1.0.0-beta.1)
+
+**Merged pull requests:**
+
+- Update redis to 1.0.0.beta.1 [\#34](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/34) ([lukemelia](https://github.com/lukemelia))
+
 ## [v1.0.0-beta.0](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.0.0-beta.0) (2017-03-25)
 [Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v0.6.11...v1.0.0-beta.0)
 
