@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.1.2](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.1.2) (2017-06-30)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.1.1...v1.1.2)
+
+**Merged pull requests:**
+
+- Update s3 plugin to 1.1.0 [\#40](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/40) ([jrowlingson](https://github.com/jrowlingson))
+
 ## [v1.1.1](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.1.1) (2017-05-04)
 [Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.1.0...v1.1.1)
 
