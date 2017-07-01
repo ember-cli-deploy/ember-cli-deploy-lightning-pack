@@ -25,7 +25,7 @@
     "ember-cli-deploy-manifest": "1.0.0",
     "ember-cli-deploy-redis": "^1.0.2",
     "ember-cli-deploy-revision-data": "1.0.0",
-    "ember-cli-deploy-s3": "1.0.0"
+    "ember-cli-deploy-s3": "^1.1.0"
   },
   "ember-addon": {
     "defaultBlueprint": "lightning-deploy-config"
