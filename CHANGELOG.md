@@ -1,6 +1,14 @@
 # Change Log
 
-## [v1.1.2](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.1.2) (2017-06-30)
+## [1.2.0](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/1.2.0) (2018-01-02)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.1.2...1.2.0)
+
+**Merged pull requests:**
+
+- Relax dependencies [\#42](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/42) ([cibernox](https://github.com/cibernox))
+- updated blueprint name [\#41](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/41) ([manquer](https://github.com/manquer))
+
+## [v1.1.2](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.1.2) (2017-07-01)
 [Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.1.1...v1.1.2)
 
 **Merged pull requests:**
