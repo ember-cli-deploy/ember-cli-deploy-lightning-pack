@@ -1,4 +1,4 @@
-var VALID_DEPLOY_TARGETS = [ //update these to match what you call your deployment targets
+var VALID_DEPLOY_TARGETS = [ // update these to match what you call your deployment targets
   'dev',
   'qa',
   'prod'
@@ -15,6 +15,7 @@ module.exports = function(deployTarget) {
       prefix: '<%= dasherizedPackageName %>'
     }
   };
+
   if (VALID_DEPLOY_TARGETS.indexOf(deployTarget) === -1) {
     throw new Error('Invalid deployTarget ' + deployTarget);
   }
@@ -22,7 +23,12 @@ module.exports = function(deployTarget) {
   if (deployTarget === 'dev') {
     ENV.build.environment = 'development';
     ENV.redis.url = process.env.REDIS_URL || 'redis://0.0.0.0:6379/';
-    ENV.plugins = ['build', 'redis']; // only care about deploying index.html into redis in dev
+    // only care about deploying index.html into redis in dev
+    ENV.pipeline = {
+      disabled: {
+        allExcept: ['build', 'redis']
+      }
+    }
   }
 
   if (deployTarget === 'qa' || deployTarget === 'prod') {
