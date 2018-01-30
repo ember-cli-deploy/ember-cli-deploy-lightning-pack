@@ -1,7 +1,14 @@
 # Change Log
 
-## [1.2.1](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/1.2.1) (2018-01-30)
-[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.2.0...1.2.1)
+## [1.2.2](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/1.2.2) (2018-01-30)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.2.1...1.2.2)
+
+**Merged pull requests:**
+
+- `build` is not needed after all in postBuild target [\#44](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/44) ([lukemelia](https://github.com/lukemelia))
+
+## [v1.2.1](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.2.1) (2018-01-30)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.2.0...v1.2.1)
 
 **Merged pull requests:**
 
