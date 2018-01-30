@@ -26,7 +26,7 @@ module.exports = function(deployTarget) {
     // only care about deploying index.html into redis in dev
     ENV.pipeline = {
       disabled: {
-        allExcept: ['build', 'redis']
+        allExcept: ['redis']
       }
     }
   }
