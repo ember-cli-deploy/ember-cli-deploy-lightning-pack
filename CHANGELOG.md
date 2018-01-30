@@ -1,7 +1,14 @@
 # Change Log
 
-## [1.2.0](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/1.2.0) (2018-01-02)
-[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.1.2...1.2.0)
+## [1.2.1](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/1.2.1) (2018-01-30)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.2.0...1.2.1)
+
+**Merged pull requests:**
+
+- Switch to pipeline.disabled from deprecated plugins [\#43](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/43) ([typeoneerror](https://github.com/typeoneerror))
+
+## [v1.2.0](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.2.0) (2018-01-02)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.1.2...v1.2.0)
 
 **Merged pull requests:**
 
