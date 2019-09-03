@@ -11,7 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "ember-cli": "^2.18.0",
-    "ember-cli-release": "1.0.0-beta.2",
+    "ember-cli-release-tag": "^0.1.5",
     "eslint": "^3.18.0"
   },
   "keywords": [
@@ -19,7 +19,7 @@
     "ember-cli-deploy-plugin-pack"
   ],
   "dependencies": {
-    "ember-cli-deploy-build": "^1.1.0",
+    "ember-cli-deploy-build": "^2.0.0",
     "ember-cli-deploy-display-revisions": "^1.0.0",
     "ember-cli-deploy-gzip": "^1.0.0",
     "ember-cli-deploy-manifest": "^1.0.0",
