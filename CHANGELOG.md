@@ -1,7 +1,14 @@
 # Change Log
 
-## [1.2.2](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/1.2.2) (2018-01-30)
-[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.2.1...1.2.2)
+## [2.0.0](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/2.0.0) (2019-09-03)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.2.2...2.0.0)
+
+**Merged pull requests:**
+
+- \[BREAKING\] Update ember-cli-deploy-build to 2.0.0 [\#47](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/47) ([lukemelia](https://github.com/lukemelia))
+
+## [v1.2.2](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/tree/v1.2.2) (2018-01-30)
+[Full Changelog](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/compare/v1.2.1...v1.2.2)
 
 **Merged pull requests:**
 
