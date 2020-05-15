@@ -1,8 +1,10 @@
 {
   "name": "ember-cli-deploy-lightning-pack",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "A pack of ember-cli-deploy plugins for implementing the 'lightning' deploys approach.",
-  "scripts": {},
+  "scripts": {
+    "release": "release-it"
+  },
   "repository": "https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack",
   "engines": {
     "node": "^10.*"
@@ -10,6 +12,7 @@
   "author": "Luke Melia and ember-cli-deploy team",
   "license": "MIT",
   "devDependencies": {
+    "auto-changelog": "^2.0.0",
     "ember-cli": "^3.18.0",
     "eslint": "^7.0.0",
     "release-it": "*"
@@ -31,7 +34,11 @@
     "defaultBlueprint": "lightning-deploy-config"
   },
   "release-it": {
+    "hooks": {
+      "after:bump": "npx auto-changelog -p"
+    },
     "git": {
+      "changelog": "npx auto-changelog --stdout --commit-limit false --unreleased --template https://raw.githubusercontent.com/release-it/release-it/master/templates/changelog-compact.hbs",
       "requireCleanWorkingDir": false
     },
     "github": {
