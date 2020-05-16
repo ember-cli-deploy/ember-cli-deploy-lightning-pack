@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "ember-cli-deploy-build": "^2.0.0",
-    "ember-cli-deploy-display-revisions": "^1.0.0",
+    "ember-cli-deploy-display-revisions": "^2.0.0",
     "ember-cli-deploy-gzip": "^1.0.0",
     "ember-cli-deploy-manifest": "^1.0.0",
     "ember-cli-deploy-redis": "^2.0.0",
