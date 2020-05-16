@@ -1,3 +1,18 @@
+## v3.0.1 (2020-05-16)
+
+#### :house: Internal
+* [#56](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/56) Bump js-yaml from 3.10.0 to 3.13.1 ([@dependabot[bot]](https://github.com/apps/dependabot))
+* [#57](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/57) Update ember-cli-deploy-display-revisions to 2.0.0 ([@lukemelia](https://github.com/lukemelia))
+* [#51](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/51) Bump underscore.string from 3.3.4 to 3.3.5 ([@dependabot[bot]](https://github.com/apps/dependabot))
+* [#55](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/55) Bump extend from 3.0.1 to 3.0.2 ([@dependabot[bot]](https://github.com/apps/dependabot))
+* [#53](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/53) Use lerna-changelog ([@lukemelia](https://github.com/lukemelia))
+* [#50](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/50) Bump js-yaml from 3.10.0 to 3.13.1 ([@dependabot[bot]](https://github.com/apps/dependabot))
+* [#52](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/52) Bump handlebars from 4.0.11 to 4.7.6 ([@dependabot[bot]](https://github.com/apps/dependabot))
+* [#54](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/54) Update ember-cli-deploy-redis ([@lukemelia](https://github.com/lukemelia))
+
+#### Committers: 1
+- Luke Melia ([@lukemelia](https://github.com/lukemelia))
+
 ### Changelog
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
