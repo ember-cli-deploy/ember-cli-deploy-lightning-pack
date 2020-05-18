@@ -1,3 +1,11 @@
+## v3.0.2 (2020-05-18)
+
+#### :bug: Bug Fix
+* [#60](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/60) Fix node version specifier to allow node 12+ as well as 10 ([@lukemelia](https://github.com/lukemelia))
+
+#### Committers: 1
+- Luke Melia ([@lukemelia](https://github.com/lukemelia))
+
 ## v3.0.1 (2020-05-16)
 
 #### :house: Internal
