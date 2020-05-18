@@ -7,7 +7,7 @@
   },
   "repository": "https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack",
   "engines": {
-    "node": "^10.*"
+    "node": "10.* || >= 12"
   },
   "author": "Luke Melia and ember-cli-deploy team",
   "license": "MIT",
