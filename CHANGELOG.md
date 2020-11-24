@@ -1,3 +1,14 @@
+## v4.0.0 (2020-11-24)
+
+#### :rocket: Enhancement
+* [#64](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/64) Update to new major releases of gzip, manifest, s3 plugins. See their release notes for details. ([@lukemelia](https://github.com/lukemelia))
+
+#### :house: Internal
+* [#65](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/65) Update dependencies ([@lukemelia](https://github.com/lukemelia))
+
+#### Committers: 1
+- Luke Melia ([@lukemelia](https://github.com/lukemelia))
+
 ## v3.0.2 (2020-05-18)
 
 #### :bug: Bug Fix
