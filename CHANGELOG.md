@@ -1,4 +1,13 @@
 
+
+## v4.2.0 (2021-10-22)
+
+#### :rocket: Enhancement
+* [#84](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/84) Update redis plugin to get redisOptions config support ([@lukemelia](https://github.com/lukemelia))
+
+#### Committers: 1
+- Luke Melia ([@lukemelia](https://github.com/lukemelia))
+
 ## v4.1.0 (2021-10-22)
 
 #### :rocket: Enhancement
