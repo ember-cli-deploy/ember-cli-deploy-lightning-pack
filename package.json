@@ -12,10 +12,10 @@
   "author": "Luke Melia and ember-cli-deploy team",
   "license": "MIT",
   "devDependencies": {
-    "ember-cli": "^3.22.0",
-    "eslint": "^7.14.0",
-    "lerna-changelog": "^1.0.1",
-    "release-it": "14.2.1",
+    "ember-cli": "^3.28.3",
+    "eslint": "^8.0.1",
+    "lerna-changelog": "^2.2.0",
+    "release-it": "14.11.6",
     "release-it-lerna-changelog": "^3.1.0"
   },
   "keywords": [
@@ -24,10 +24,10 @@
   ],
   "dependencies": {
     "ember-cli-deploy-build": "^2.0.0",
-    "ember-cli-deploy-display-revisions": "^2.0.0",
+    "ember-cli-deploy-display-revisions": "^2.1.2",
     "ember-cli-deploy-gzip": "^2.0.0",
     "ember-cli-deploy-manifest": "^2.0.0",
-    "ember-cli-deploy-redis": "^2.0.0",
+    "ember-cli-deploy-redis": "^3.0.0",
     "ember-cli-deploy-revision-data": "^1.0.0",
     "ember-cli-deploy-s3": "^3.0.0"
   },
@@ -54,5 +54,9 @@
         "infile": "CHANGELOG.md"
       }
     }
+  },
+  "volta": {
+    "node": "14.18.1",
+    "yarn": "1.22.17"
   }
 }
