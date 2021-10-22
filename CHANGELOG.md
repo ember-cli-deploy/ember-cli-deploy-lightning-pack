@@ -1,3 +1,12 @@
+
+## v4.1.0 (2021-10-22)
+
+#### :rocket: Enhancement
+* [#80](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/80) Update ember-cli-deploy-redis to 3.0.0 for TLS support ([@lukemelia](https://github.com/lukemelia))
+
+#### Committers: 1
+- Luke Melia ([@lukemelia](https://github.com/lukemelia))
+
 ## v4.0.0 (2020-11-24)
 
 #### :rocket: Enhancement
