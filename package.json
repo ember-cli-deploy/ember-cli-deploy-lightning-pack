@@ -44,7 +44,7 @@
       "pushArgs": "--follow-tags --no-verify"
     },
     "npm": {
-      "publish": false
+      "publish": true
     },
     "github": {
       "release": true
