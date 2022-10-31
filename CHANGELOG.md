@@ -3,6 +3,8 @@
 
 ## v5.0.0 (2022-10-31)
 
+Potentially breaking (but unlikely): minimum node version is now 12.
+
 #### :house: Internal
 * [#92](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/92) Bump ember-cli-deploy-revision-data from 1.0.0 to 2.0.0 ([@gorner](https://github.com/gorner))
 
