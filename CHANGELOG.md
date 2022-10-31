@@ -1,5 +1,14 @@
 
 
+
+## v5.0.0 (2022-10-31)
+
+#### :house: Internal
+* [#92](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/92) Bump ember-cli-deploy-revision-data from 1.0.0 to 2.0.0 ([@gorner](https://github.com/gorner))
+
+#### Committers: 1
+- Joshua Gorner ([@gorner](https://github.com/gorner))
+
 ## v4.2.2 (2021-10-22)
 
 ## v4.2.0 (2021-10-22)
