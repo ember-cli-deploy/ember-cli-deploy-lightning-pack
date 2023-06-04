@@ -1,6 +1,15 @@
 
 
 
+
+## v6.0.0 (2023-06-04)
+
+#### :boom: Breaking Change
+* [#101](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/101) Update dependencies and node version requirements ([@lukemelia](https://github.com/lukemelia))
+
+#### Committers: 1
+- Luke Melia ([@lukemelia](https://github.com/lukemelia))
+
 ## v5.0.0 (2022-10-31)
 
 Potentially breaking (but unlikely): minimum node version is now 12.
