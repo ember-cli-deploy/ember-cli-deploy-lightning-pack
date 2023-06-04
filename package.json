@@ -7,13 +7,13 @@
   },
   "repository": "https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack",
   "engines": {
-    "node": ">= 12"
+    "node": "14.x || 16.x || 18.x || >= 20"
   },
   "author": "Luke Melia and ember-cli-deploy team",
   "license": "MIT",
   "devDependencies": {
-    "ember-cli": "^3.28.3",
-    "eslint": "^8.0.1",
+    "ember-cli": "^3.28.6",
+    "eslint": "^8.42.0",
     "lerna-changelog": "^2.2.0",
     "release-it": "14.11.6",
     "release-it-lerna-changelog": "^3.1.0"
@@ -23,13 +23,13 @@
     "ember-cli-deploy-plugin-pack"
   ],
   "dependencies": {
-    "ember-cli-deploy-build": "^2.0.0",
-    "ember-cli-deploy-display-revisions": "^2.1.2",
-    "ember-cli-deploy-gzip": "^2.0.0",
-    "ember-cli-deploy-manifest": "^2.0.0",
-    "ember-cli-deploy-redis": "^3.1.1",
-    "ember-cli-deploy-revision-data": "^2.0.0",
-    "ember-cli-deploy-s3": "^3.0.0"
+    "ember-cli-deploy-build": "^3.0.0",
+    "ember-cli-deploy-display-revisions": "^3.0.0",
+    "ember-cli-deploy-gzip": "^3.0.0",
+    "ember-cli-deploy-manifest": "^3.0.0",
+    "ember-cli-deploy-redis": "^4.0.0",
+    "ember-cli-deploy-revision-data": "^3.0.0",
+    "ember-cli-deploy-s3": "^4.0.0"
   },
   "ember-addon": {
     "defaultBlueprint": "lightning-deploy-config"
@@ -56,7 +56,7 @@
     }
   },
   "volta": {
-    "node": "14.18.1",
+    "node": "14.21.3",
     "yarn": "1.22.17"
   }
 }
