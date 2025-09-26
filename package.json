@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-deploy-lightning-pack",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "A pack of ember-cli-deploy plugins for implementing the 'lightning' deploys approach.",
   "scripts": {
     "release": "release-it"

@@ -2,6 +2,15 @@
 
 
 
+
+## v7.0.0 (2025-09-26)
+
+#### :house: Internal
+* [#113](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack/pull/113) Update ember-cli-deploy-s3 to v5 ([@lukemelia](https://github.com/lukemelia))
+
+#### Committers: 1
+- Luke Melia ([@lukemelia](https://github.com/lukemelia))
+
 ## v6.0.0 (2023-06-04)
 
 #### :boom: Breaking Change
